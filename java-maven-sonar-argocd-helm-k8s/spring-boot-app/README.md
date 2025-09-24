@@ -53,7 +53,7 @@ Hurray !! Access the application on `http://<ip-address>:8010`
 
 ```
 System Requirements
-Java 17+ (Oracle JDK, OpenJDK, or AdoptOpenJDK)
+Java 17+ (Oracle JDK, OpenJDK, or AdoptOpenJDK) ## jave version must match with sonarqube version, only then works
 Hardware Recommendations:
    Minimum 2 GB RAM
    2 CPU cores
